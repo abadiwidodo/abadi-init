@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "abadi-init": "./bin/index.js"
+    "abadi-init": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
