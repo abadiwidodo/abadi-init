@@ -1,0 +1,22 @@
+{
+  "name": "abadi-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "abadi-init": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abadiwidodo/abadi-init.git"
+  },
+  "author": "Adi Widodo <adi_widodo@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abadiwidodo/abadi-init/issues"
+  },
+  "homepage": "https://github.com/abadiwidodo/abadi-init#readme"
+}
